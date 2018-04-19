@@ -1,0 +1,25 @@
+Linux
+
+- malware can't be bound to a port already in use
+-check netstat for outgoing connections
+
+-scan high range ports
+
+-print out 100 passwords (numbered) and share
+-chattr
+-ls chattr (to see what attributes)
+
+-chattr +i = immutable
+
+set iptables rules as default policy
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04
+
+dont set a default DROP policy instead append to the end of a chain 
+
+try to disable -F
+for comp
+
+got to etc/ssh/ssh_config and append "PermitRootLogin no"
+
+-   PasswordAuthentication yes

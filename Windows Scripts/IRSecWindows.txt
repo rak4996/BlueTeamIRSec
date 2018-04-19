@@ -1,0 +1,8 @@
+when starting proc exec 
+- right click tool bar and add auto start locations
+- right click and add proccess timeline
+
+
+
+
+look at build time of proccesses
